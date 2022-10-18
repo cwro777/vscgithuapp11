@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\netcoreapp3.1\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/edf8bbf3-878f-430a-b322-ac1662b41637/resourceGroups/cwrg3/providers/Microsoft.Web/sites/gihthubwebapp11"
+}
